@@ -124,6 +124,9 @@ generateRandomOption(sum){
                 <div className="play-again">
             <a className="button" onClick={this.play}>Play Again</a>
             </div>
+            <div className="play-again">
+            <a className="button" onClick={this.play}>Play Again</a>
+            </div>
             </div>
         );
     }
